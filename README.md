@@ -24,6 +24,7 @@ Projeto em desenvolvimento na UC de Modelagem de software
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
+* [Trilha](#trilha-do-projeto)
 
 
 
@@ -44,7 +45,7 @@ Projeto em desenvolvimento na UC de Modelagem de software
 
 
 
-# Sobre o Projeto
+# Trilha do projeto
 
 # O UniversityBank e uma iniciativa voltada para a acessibilidade estudantil , visando gerar mais oportunidades e cuidar da saude financeira e academica de nossos clientes.
  # financiamentos e ajudas de custos sao um dos varios recursos que pretendemos implantar parar gerar mais profissionais para o mercado trabalhando para que o cliente se preocupe apenas com a sua vida academica. 
