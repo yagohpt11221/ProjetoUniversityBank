@@ -17,7 +17,6 @@ Projeto em desenvolvimento na UC de Modelagem de software
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
