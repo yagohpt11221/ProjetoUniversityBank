@@ -1,19 +1,13 @@
-# ProjetoUniversityBank
+# Projeto UniversityBank
 Projeto em desenvolvimento na UC de Modelagem de software
 
 
 
-![Capa do Projeto](# Título do Projeto
-
-
-![Capa do Projeto](# Título do Projeto
-
-
-![Capa do Projeto](https://picsum.photos/850/280)
-
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+# Banco voltado para estudantes com foco primordial em ajudar a conquistar o futuro daqueles que sempre procuram o melhor.
+
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -33,12 +27,13 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] **Gerenciamento de usuarios**
+- [x] **Dados pessoais**
+- [x] **Comsultoria de financiamento**
+- [x] **Relatorios**
+- [x] **Atedentes com suporte ao usuario**
+- [x] **formalização**
+- [x] **Cadastramento da biometria**
 
 # Tecnologias Usadas
 
@@ -107,7 +102,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+(https://github.com/testing-library/react-testing-library#contributors)
 
 # Licença
 
@@ -115,11 +110,14 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Agradecimento a toda equipe que participou e realizou o trabalho, Ester, Gabriel Vitor, Lindeia, Cecília e Yago.
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+# O UniversityBank e uma iniciativa voltada para a acessibilidade estudantil , visando gerar mais oportunidades e cuidar da saude financeira e academica de nossos clientes.
+ # financiamentos e ajudas de custos sao um dos varios recursos que pretendemos implantar parar gerar mais profissionais para o mercado trabalhando para que o cliente se preocupe apenas com a sua vida academica. 
+ # criando um ecosistema onde todos ganham, visando que o Brasil um dia seja referencia nesse tipo de investimento.
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -141,10 +139,10 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 - [x] **Cadastrar Usuário**
 - [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] Cadastra 
+- [x] Cancelar Matricula
+- [x] Visualizar Notas
+- [x] Visualizar e Atualizar Informações do Estudante
 
 # Tecnologias Usadas
 
@@ -160,7 +158,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+[💻code](*https://github.com/Ceduda23)
+[💻code](https://github.com/Lindeia)
+[💻code](https://github.com/yagohpt11221)
+[💻code](https://github.com/Gabriel21Oliver)
 
 # Licença
 
@@ -168,4 +169,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
