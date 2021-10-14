@@ -62,10 +62,10 @@ Projeto em desenvolvimento na UC de Modelagem de software
 
 - [x] **Cadastrar Usuário**
 - [x] **Fazer Login**
-- [x] Cadastra 
-- [x] Cancelar Matricula
-- [x] Visualizar Notas
-- [x] Visualizar e Atualizar Informações do Estudante
+- [x] **Cadastra**
+- [x] **Cancelar Matricula**
+- [x] **Visualizar Notas**
+- [x] **Visualizar e Atualizar Informações do Estudante**
 
 # Tecnologias Usadas
 
