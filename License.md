@@ -1,6 +1,6 @@
  **Licença MIT (MIT)**
 
-Copyright (c) [2021] [UniversityBank]
+**Copyright (c) [2021] [UniversityBank]**
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia do
 este software e arquivos de documentação associados (o "Software"), para lidar com
