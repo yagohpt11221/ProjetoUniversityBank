@@ -93,7 +93,7 @@ Leia o arquivo [CONTRIBUTING.md](Contributing.md)
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](license.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](License.md) para mais detalhes.
 
 # Agradecimentos
 Agradecimento a toda equipe que participou e realizou o trabalho, Ester, Gabriel Vitor, Lindeia, Cecília e Yago.
