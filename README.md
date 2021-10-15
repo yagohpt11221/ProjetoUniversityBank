@@ -80,7 +80,7 @@ Projeto em desenvolvimento na UC de Modelagem de software
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](Contributing.md) 
+Leia o arquivo [CONTRIBUTING.md](license.md) 
 
 # Autores
 
