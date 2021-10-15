@@ -79,7 +79,7 @@ Projeto em desenvolvimento na UC de Modelagem de software
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+Leia o arquivo [CONTRIBUTING.md](fc0bdafdb28d5a303e7602243de5130a7b439d1f) 
 
 # Autores
 
