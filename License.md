@@ -1,0 +1,1 @@
+Licensa pra termina
