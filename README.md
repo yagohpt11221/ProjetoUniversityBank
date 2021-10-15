@@ -84,11 +84,11 @@ Leia o arquivo [CONTRIBUTING.md](Contributing.md)
 
 # Autores
 
-[💻code](https://github.com/Ceduda23)
-[💻code](https://github.com/Lindeia)
-[💻code](https://github.com/yagohpt11221)
-[💻code](https://github.com/Gabriel21Oliver)
-[💻code](https://github.com/Estermaiag)
+[💻Cecilia](https://github.com/Ceduda23)
+[💻Lindeia](https://github.com/Lindeia)
+[💻Lider Yago](https://github.com/yagohpt11221)
+[💻Gabriel](https://github.com/Gabriel21Oliver)
+[💻Ester](https://github.com/Estermaiag)
 
 
 # Licença
