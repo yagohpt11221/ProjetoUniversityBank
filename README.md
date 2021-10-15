@@ -7,6 +7,11 @@ Projeto em desenvolvimento na UC de Modelagem de software
 
 # Sobre o Projeto
 
+
+
+
+![logotipo](https://user-images.githubusercontent.com/89614679/137416805-d3e4d94c-47cf-4039-8a50-652e6807c350.png)
+
 # Banco voltado para estudantes com foco primordial em ajudar a conquistar o futuro daqueles que sempre procuram o melhor.
 
 
