@@ -62,12 +62,13 @@ Projeto em desenvolvimento na UC de Modelagem de software
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [x] **Cadastra**
-- [x] **Cancelar Matricula**
-- [x] **Visualizar Notas**
-- [x] **Visualizar e Atualizar Informações do Estudante**
+- [x] **Gerenciamento de usuarios**
+- [x] **Dados Pessoais**
+- [x] **comsultoria de Financiamento**
+- [x] **Relatorios**
+- [x] **Atendentes com Suporte ao Usuario**
+- [x] **formalização do Comtrato**
+- [x]** 
 
 # Tecnologias Usadas
 
