@@ -68,7 +68,7 @@ Projeto em desenvolvimento na UC de Modelagem de software
 - [x] **Relatorios**
 - [x] **Atendentes com Suporte ao Usuario**
 - [x] **formalização do Comtrato**
-- [x]**Cadastramento da Biometria**
+- [x] **Cadastramento da Biometria**
 
 # Tecnologias Usadas
 
