@@ -4,18 +4,18 @@
 
 # Lider: 
 
- Yago
- https://github.com/yagohpt11221
+ 
+[💻Yago](https://github.com/yagohpt11221)
 
  # Colaboradores:
 
-https://github.com/Gabriel21Oliver
+[💻Gabriel](https://github.com/Gabriel21Oliver)
 
 
-https://github.com/Estermaiag
+[💻Ester](https://github.com/Estermaiag)
 
-https://github.com/Lindeia
+[💻Lindeia](https://github.com/Lindeia)
 
-https://github.com/Ceduda23
+[💻Cecilia](https://github.com/Ceduda23)
 
 
