@@ -1,6 +1,6 @@
 # Projeto em desenvolvimento na UC de Modelagem de software 
 
-# por
+
 
 # Lider: 
 
